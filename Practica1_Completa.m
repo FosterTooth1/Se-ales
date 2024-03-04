@@ -17,8 +17,7 @@ title("presion atmosferica")
 
 frecuencia = 392; % Frecuencia del tono en Hz %nota sol
 amplitud = 1; % Amplitud del sonido
-duracion = 1; % Duración del sonido en segundos
-fs = 800; % Frecuencia de muestreo en Hz 
+fs = 200; % Frecuencia de muestreo en Hz 
 
 % Generar vector de tiempo
 t = 0:1/fs:4;
